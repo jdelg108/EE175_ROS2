@@ -1,2 +1,2 @@
 # EE175-Senior-Design
-ROS2 Nav2 
+ROS2 Nav2 Node
